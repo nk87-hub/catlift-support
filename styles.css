@@ -4,3 +4,5 @@
 .legal-details > div { padding: 18px 0; border-bottom: 1px solid var(--line, #e4ddd3); }
 .legal-details dt { font-weight: 700; margin-bottom: 8px; }
 .legal-details dd { margin: 0; line-height: 1.9; overflow-wrap: anywhere; }
+
+.faq h3 { font-size: 1.05rem; line-height: 1.6; margin: 28px 0 12px; }
